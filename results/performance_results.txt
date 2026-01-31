@@ -1,0 +1,43 @@
+Dataset size: 1000
+
+Sorted data:
+Merge Sort  - Time: 5.870 ms | Memory: 28792 bytes
+Quick Sort  - Time: 4.749 ms | Memory: 33816 bytes
+
+Reverse Sorted data:
+Merge Sort  - Time: 7.203 ms | Memory: 28064 bytes
+Quick Sort  - Time: 4.011 ms | Memory: 33016 bytes
+
+Random data:
+Merge Sort  - Time: 8.976 ms | Memory: 25248 bytes
+Quick Sort  - Time: 10.669 ms | Memory: 36320 bytes
+
+Nearly Sorted data:
+Merge Sort  - Time: 9.340 ms | Memory: 25216 bytes
+Quick Sort  - Time: 5.889 ms | Memory: 33704 bytes
+
+Many Duplicates data:
+Merge Sort  - Time: 7.491 ms | Memory: 25848 bytes
+Quick Sort  - Time: 0.797 ms | Memory: 46984 bytes
+
+Dataset size: 5000
+
+Sorted data:
+Merge Sort  - Time: 54.326 ms | Memory: 140064 bytes
+Quick Sort  - Time: 26.048 ms | Memory: 165776 bytes
+
+Reverse Sorted data:
+Merge Sort  - Time: 51.773 ms | Memory: 140064 bytes
+Quick Sort  - Time: 31.379 ms | Memory: 165888 bytes
+
+Random data:
+Merge Sort  - Time: 81.189 ms | Memory: 123888 bytes
+Quick Sort  - Time: 36.114 ms | Memory: 232960 bytes
+
+Nearly Sorted data:
+Merge Sort  - Time: 81.032 ms | Memory: 124152 bytes
+Quick Sort  - Time: 28.017 ms | Memory: 177856 bytes
+
+Many Duplicates data:
+Merge Sort  - Time: 73.069 ms | Memory: 124904 bytes
+Quick Sort  - Time: 1.853 ms | Memory: 199384 bytes
